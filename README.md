@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img align="right" height="360"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW44d283bzBhcnF3bnJ3OHIycHIweDU5azhmZWd6a21yNGJ1aDV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2cedBUXbfLz56dQF7q/giphy.gif" />
+  <img align="right" height="360"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhaDN1Mnh2amx1dzBsZWRzNXkxZmJ0aGZ4bjN3bGE1ZnE0MndpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8rWeMk5v022c6Z9nS/giphy.gif" />
   <p align="left">
     🎓 <b>Formação Acadêmica:</b> Graduando em ADS pela <b>FAM</b>.<br>
     📜 <b>Especialização:</b> Extensão em Programação Orientada a Objetos (POO) pelo <b>IFSP</b>.<br>
