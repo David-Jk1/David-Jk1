@@ -34,7 +34,11 @@
 ### 📊 Minhas Atividades no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJ-David1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-David1&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJ-David1&theme=radical" />
 </p>
 
 <h1 align='center'>⚡️<i>Focado na evolução!</i>⚡️</h1>
