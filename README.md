@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img align="right" height="180" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+  <img align="right" height="360" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
   <p align="left">
     🎓 <b>Formação Acadêmica:</b> Graduando em ADS pela <b>FAM</b>.<br>
     📜 <b>Especialização:</b> Extensão em Programação Orientada a Objetos (POO) pelo <b>IFSP</b>.<br>
