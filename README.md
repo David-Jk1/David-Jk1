@@ -8,26 +8,22 @@
   <a href="mailto:david.jk.dm@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<br>
 
-<div align="center">
-  <img align="right" height="220"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhaDN1Mnh2amx1dzBsZWRzNXkxZmJ0aGZ4bjN3bGE1ZnE0MndpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8rWeMk5v022c6Z9nS/giphy.gif" />
+<div>
+  <img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhaDN1Mnh2amx1dzBsZWRzNXkxZmJ0aGZ4bjN3bGE1ZnE0MndpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8rWeMk5v022c6Z9nS/giphy.gif" />
 
-<div align="center">
-  <h1>Olá, eu sou o David Jackson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h3>🚀 Estudante de ADS na FAM | Estagiário de Backend Java</h3>
-  <img src="LINK_DO_SEU_GIF" width="400">
-</div>
-  
-  <p align="left">
-    🎓 <b>Formação Acadêmica:</b> Graduando em ADS pela <b>FAM</b>.<br>
-    📜 <b>Especialização:</b> Extensão em Programação Orientada a Objetos (POO) pelo <b>IFSP</b>.<br>
-    🛡️ <b>Experiência Real:</b> Atualmente no CCM da <b>Porto Seguro</b>, com foco em monitoramento e SLA.<br>
-    🌱 <b>Foco Técnico:</b> Desenvolvendo projetos práticos com <b>Java e Spring Boot</b>.<br>
+  <p>
+    🎓 <b>Formação Acadêmica:</b> Graduando em ADS pela <b>FAM</b>.<br><br>
+    📜 <b>Especialização:</b> Extensão em Programação Orientada a Objetos (POO) pelo <b>IFSP</b>.<br><br>
+    🛡️ <b>Experiência Real:</b> Atualmente no CCM da <b>Porto Seguro</b>, com foco em monitoramento e SLA.<br><br>
+    🌱 <b>Foco Técnico:</b> Desenvolvendo projetos práticos com <b>Java e Spring Boot</b>.<br><br>
     ⚡ <i>"Transformando lógica em soluções robustas, um commit de cada vez."</i>
   </p>
 </div>
 
-<br />
+<br clear="right">
+<br>
 
 ### 🛠️ Tecnologias que estou estudando:
 
@@ -49,4 +45,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Jk1&theme=radical" />
 </p>
 
-<h1 align='center'>⚡️<i>Focado na evolução!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Focado na evolução!</i></h1>
